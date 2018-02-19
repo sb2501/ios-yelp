@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17E5B2C2203AA7A5003492FF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 17E5B2C1203AA7A5003492FF /* README.md */; };
 		222D8A5B19CCF9F900D2DB53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222D8A5A19CCF9F900D2DB53 /* AppDelegate.swift */; };
 		222D8A6019CCF9F900D2DB53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222D8A5E19CCF9F900D2DB53 /* Main.storyboard */; };
 		222D8A6219CCF9F900D2DB53 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 222D8A6119CCF9F900D2DB53 /* Images.xcassets */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		0A1000F3975EB43318C1D4FA /* Pods_YelpTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YelpTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		17E5B2C1203AA7A5003492FF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		222D8A5519CCF9F900D2DB53 /* Yelp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Yelp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		222D8A5919CCF9F900D2DB53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		222D8A5A19CCF9F900D2DB53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 		222D8A5719CCF9F900D2DB53 /* Yelp */ = {
 			isa = PBXGroup;
 			children = (
+				17E5B2C1203AA7A5003492FF /* README.md */,
 				22AAAA9A1AEA0AA100A544AF /* Models */,
 				222D8A7A19CCFAAA00D2DB53 /* API */,
 				22AAAA9D1AEA1EC600A544AF /* View Controllers */,
@@ -268,6 +271,7 @@
 			files = (
 				222D8A6019CCF9F900D2DB53 /* Main.storyboard in Resources */,
 				222D8A6519CCF9F900D2DB53 /* LaunchScreen.xib in Resources */,
+				17E5B2C2203AA7A5003492FF /* README.md in Resources */,
 				222D8A6219CCF9F900D2DB53 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
